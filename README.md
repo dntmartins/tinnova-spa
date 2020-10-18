@@ -1,6 +1,6 @@
-## Single Page Application
+# Single Page Application
 
-# Desafio do front-end realizado em React JS, utilizando o conceito de SPA.
+## Desafio do front-end realizado em React JS, utilizando o conceito de SPA.
 
 Possui as seguintes funcionalidades:
 
